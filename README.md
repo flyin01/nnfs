@@ -1,7 +1,7 @@
 # nnfs
 Building neural networks from scratch nnfs.io.  
 
-####terminology####  
+#### terminology ####  
 Layers of neurons.  
 Layer size: 10,8,8,8,2. With 8x3 hidden layers.  
 Weights: 224, unique connections/lines between neurons.  
