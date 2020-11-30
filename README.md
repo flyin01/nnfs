@@ -1,5 +1,5 @@
 # nnfs
-Building neural networks from scratch nnfs.io.  
+Building neural networks from scratch by way of nnfs.io.  
 
 #### terminology ####  
 Layers of neurons.  
