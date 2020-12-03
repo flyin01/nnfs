@@ -1,5 +1,6 @@
 # nnfs
 Building neural networks from scratch by way of nnfs.io.  
+Description of key concepts.   
 
 #### shape ####  
 Understanding shape.
@@ -18,7 +19,7 @@ Type: list-of-list is a 2D array in numpy, Matrix in math
 
 A tensor can be represented as an array, we will work with tensor in this form.  
 
-  
+
 #### terminology ####  
 Layers of neurons.  
 Layer size: 10,8,8,8,2. With 8x3 hidden layers.  
