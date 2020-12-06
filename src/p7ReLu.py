@@ -22,3 +22,12 @@ for i in inputs:
 
 print(output)
 # all the output is clipped from 0 and below to be 0
+
+# alt 2
+output = []
+for i in inputs:
+    output.append(max(0, i))
+
+print(output) # this gives exact same output as alt 1
+
+# Next we write the rectified linear object
