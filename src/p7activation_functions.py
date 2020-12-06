@@ -41,7 +41,7 @@
 # output is offset vertically. If we change n2 input to -2.0 we have both a
 # upper and lower bound, first flat att 0, linear upp, flat again at y 1.
 
-# consider two layers with eight neurons each ReLu activation (1,8,8,1),
+# Consider two layers with eight neurons each ReLu activation (1,8,8,1),
 # simplified O-O, shifting weights of similarily indexed neurons only.
 # Fitting a sine function (wave) using ReLU (step by step to understand how)
 # One neuron level, increaseing the weight the slope of the line increases.
@@ -49,7 +49,8 @@
 # Then we want to stop the slope by bounding it. Second neuron can set the
 # de-activation part. By using the bias we can offset the line and then adjust
 # weight to negative for a negative slope. We can then set the weight of our
-# second neuron to the output neuron to negative.
+# second neuron to the output neuron to negative. We need at least
+# two hidden layers to be able to fit non linear problems with neural networks.
 # We are using pair-wise neurons in the two hidden layers to fit the line to
 # the sine wave. This can be achieved by adjusting weights and biases in the
 # 8 neuron pairs. This means we add elbow points in the line to
