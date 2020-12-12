@@ -1,6 +1,6 @@
 # nnfs
 Building neural networks from scratch by way of nnfs.io.  
-Description of key concepts.   
+Description of key concepts and code snippets.     
 
 #### shape ####  
 Understanding shape.
