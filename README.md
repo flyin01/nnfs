@@ -1,6 +1,12 @@
 # nnfs
 Building neural networks from scratch by way of nnfs.io.  
-Description of key concepts and code snippets.     
+Folder structure and description of key concepts and code snippets.     
+
+#### folders  
+* 0.basics
+* 2.coding first neurons
+* 3.adding Layers
+* 4.activation functions
 
 #### shape ####  
 Understanding shape.
