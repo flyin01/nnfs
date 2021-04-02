@@ -3,11 +3,12 @@ Building neural networks from scratch by way of nnfs.io.
 Folder structure and description of key concepts and code snippets.     
 
 #### folders  
-* 0.basics
-* 2.coding first neurons
-* 3.adding Layers
-* 4.activation functions
-
+0. basics  
+2. coding first neurons  
+3. adding Layers  
+4. activation functions  
+5. calculating network error with loss  
+  
 #### shape ####  
 Understanding shape.
 Array: l = [1,5,6,2]  
