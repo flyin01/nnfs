@@ -8,6 +8,7 @@ Folder structure and description of key concepts and code snippets.
 * [x] 3.adding Layers  
 * [x] 4.activation functions  
 * [x] 5.calculating network error with loss  
+* [x] 6.introducing optimization  
 
 #### shape ####  
 Understanding shape.
