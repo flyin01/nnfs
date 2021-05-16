@@ -9,7 +9,7 @@ Folder structure and description of key concepts and code snippets.
 * [x] 4.activation functions  
 * [x] 5.calculating network error with loss  
 * [x] 6.introducing optimization  
-* [ ] 7.derivatives  
+* [x] 7.derivatives  
 
 #### shape ####  
 Understanding shape.
